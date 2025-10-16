@@ -1,0 +1,23 @@
+# AI và Machine Learning
+openai>=1.0.0
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# Web UI và Demo
+streamlit>=1.24.0
+gradio>=3.40.0
+
+# Xử lý môi trường và config
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Utilities
+requests>=2.31.0
+pandas>=2.0.0
+tqdm>=4.65.0
+loguru>=0.7.0
+
+# Development tools
+black>=23.3.0
+pylint>=2.17.0
